@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Blockchain Technology**
 
-- 👯 I’m looking to collaborate on [Scholarship Website](https://deklycom-contractors.netlify.app/)
+- 👯 I’m looking to collaborate on Bitcoin and Cryptocurrency(https://bitcoin.org)
 
 - 🤝 I’m looking for help with [Ecommerce Project](https://interhealthcareke.netlify.app/)
 
