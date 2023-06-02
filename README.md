@@ -1,4 +1,5 @@
-![logo](https://github.com/Danbethwel/Dankasike/blob/main/data-science-banner.jpeg)
+![blockchain](https://github.com/Danbethwel/Danbethwel/assets/93147941/b8e573ad-e620-43ce-bdac-f7772f131bd4)
+
 <h1 align="center">Hi 👋, I'm Dan Bethwell</h1>
 <h3 align="center">I am a Computer Scientist from Kenya</h3>
 
